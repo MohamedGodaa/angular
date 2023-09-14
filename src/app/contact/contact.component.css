@@ -1,0 +1,24 @@
+.contact-head h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #2C3E50;
+}
+.line{
+    background-color:#2C3E50 !important;
+}
+section{
+    padding-top: 130px;
+}
+
+._top{
+    top:40px !important;
+    z-index: 55555;
+    left: 12px;
+}
+input.form-control:focus {
+    box-shadow: none;
+}
+button{
+    background-color: #1abc9c;
+}

@@ -1,0 +1,30 @@
+.footerhead{
+    background-color: #2C3E50;
+    padding: 80px 100px;
+    line-height: 24px;
+    color: #fff;
+    
+}
+.footerend{
+    background-color: #1A252F;
+    width: 100%;
+}
+.footerend p {
+    color: #fff;
+    padding: 20px;
+
+}
+
+.social span {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+    /* height: 30px;
+    width: 30px; */
+}
+.social span i {
+    padding:12px 12px;
+}
+section {
+    margin-bottom: 0;
+}

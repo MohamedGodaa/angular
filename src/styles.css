@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: #fff;
+}

@@ -1,0 +1,15 @@
+.about{
+    background-color: #1ABC9C;
+    color: #fff;
+    padding-top: 250px;
+    height: calc(100vh - 20px);
+}
+.container h2{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.col-md-6 p{
+    line-height: 24px;
+}

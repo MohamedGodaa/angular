@@ -1,0 +1,20 @@
+.home {
+    background-color: #1ABC9C;
+    color: #fff;
+    padding-top: 100px;
+    height: calc(100vh - 20px);
+}
+.home img{
+    width: 250px;
+}
+.container h2{
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 700;
+}
+.container h3 i{
+    font-size: 15px;
+}
+
+
+

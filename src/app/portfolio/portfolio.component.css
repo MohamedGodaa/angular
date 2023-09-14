@@ -1,0 +1,20 @@
+.container h2{
+    font-size:40px ;
+    font-weight: 700;
+    line-height:48px ;
+    color:#2C3E50 ;
+}
+.container{
+    padding-top: 150px;
+}
+.line{
+    background-color: #2C3E50 !important;
+}
+.icons{  
+    background-color: #1abc9ce6;
+    opacity: 0;
+    transition: .6s opacity;
+}
+.icons:hover{
+    opacity: 1;
+}
